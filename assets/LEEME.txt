@@ -1,0 +1,2 @@
+Pon aqui las imagenes del sitio (ver README.md para la lista de nombres exactos).
+Put the site images here (see README.md for the exact file names).
